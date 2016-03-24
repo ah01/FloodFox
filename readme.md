@@ -1,6 +1,6 @@
 # Flood Fox #
 
-*System for monitoring water level of small rivers. System agragates current values and keep an eye on possible flood situation.*
+*System for monitoring water level of small rivers. System aggregates current values and keep an eye on possible flood situation.*
 
 ## Intro ##
 
@@ -20,7 +20,7 @@ This project was created during Microsoft **CEE IoT Hackathon Czech Republic**
 	- Azure Stream Analytics
 	- Azure Table storage
 	- Microsoft Power BI
-- Mobile application for technician (support during instalation of device)
+- Mobile application for technician (support during installation of device)
 	- Universal App for Windows 10
 
 
