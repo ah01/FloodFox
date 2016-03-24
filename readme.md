@@ -29,13 +29,14 @@ This project was created during Microsoft **CEE IoT Hackathon Czech Republic**
 - *azure* - Azure configuration
 - *doc* - little bit of documentation
 - *hw* - FW for Arduino (prototype)
+- *mobile* - Universal app for install technician
 - *prezentace* - Final presentation (czech only, sorry)
 - *sigfox* - notes about sigfox backend settings
 
 ## Team ##
 
-- Adam Hořčica
-- Petr Vacha
-- Jiří Koutný
-- Petr Fuk
-- Zbyněk Sulc
+- Adam Hořčica (HW, overall idea)
+- Petr Vacha (Management, R&D)
+- Jiří Koutný (Azure)
+- Petr Fuk (Power BI)
+- Zbyněk Sulc (Mobile app)
