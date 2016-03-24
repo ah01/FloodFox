@@ -8,6 +8,8 @@ This project was created during Microsoft **CEE IoT Hackathon Czech Republic**
 
 ## Used technology ##
 
+![Ovewview](doc/overview.png)
+
 - Hardware
 	- Ultrasonic Range detector (to measure water level)
 	- Arduino Uno
