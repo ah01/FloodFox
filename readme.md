@@ -10,7 +10,7 @@ This project was created during Microsoft **CEE IoT Hackathon Czech Republic**
 
 ![Ovewview](doc/overview.png)
 
-- Hardware
+- Hardware ([photo](https://raw.githubusercontent.com/ah01/FloodFox/master/prezentace/images/FullSizeRender.jpg))
 	- Ultrasonic Range detector (to measure water level)
 	- Arduino Uno
 	- SigFox module TD1207 (modem for SigFox network)
@@ -36,7 +36,8 @@ This project was created during Microsoft **CEE IoT Hackathon Czech Republic**
 ## Team ##
 
 - Adam Hořčica (HW, overall idea)
-- Petr Vacha (Management, R&D)
 - Jiří Koutný (Azure)
 - Petr Fuk (Power BI)
 - Zbyněk Sulc (Mobile app)
+
+Petr Vacha (R&D)
